@@ -1,0 +1,15 @@
+{
+  "name": "timezones",
+  "version": "1.0.0",
+  "description": "API to return time in given timezone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Severin Wiggenhorn <severin.wiggenhorn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.9.4",
+    "express": "^4.17.1"
+  }
+}
