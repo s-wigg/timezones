@@ -1,6 +1,7 @@
 # timezones
 
 run `npm i` to install
+
 run `node index.js` to start server
 
 example usage http://localhost:8000/time
